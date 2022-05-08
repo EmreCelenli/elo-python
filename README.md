@@ -1,5 +1,6 @@
 # elo-python
 The Elo rating system is a method for calculating the relative skill levels of players in zero-sum games such as chess.
+
 FIDE(International Chess Federation) uses the following ranges:
 
 K is the development coefficient.
