@@ -36,3 +36,5 @@ def elo(rating_a, rating_b, K, d):
 
 if __name__ == "__main__":
    elo(rating_a, rating_b, K, d)
+
+
