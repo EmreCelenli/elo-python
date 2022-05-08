@@ -16,3 +16,5 @@ K = 20 for RAPID and BLITZ ratings all players.
 K = 10 once a player's published rating has reached 2400 and remains at that level subsequently, even if the rating drops below 2400.
 
 Difference of more than 400 rating points is counted as 400.
+
+Source = https://en.wikipedia.org/wiki/Elo_rating_system
